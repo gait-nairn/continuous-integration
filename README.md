@@ -16,6 +16,7 @@ All of your homework grades in this class will be determined by the results of t
 If you pass all the tests, you get full credit.
 For each test case that you fail, you will lose 1 point on the assignment.
 
+
 The workflow is summarized in the following diagram:
 
 <p align=center>
